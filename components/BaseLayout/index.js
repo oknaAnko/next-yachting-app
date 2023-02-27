@@ -38,6 +38,11 @@ const TopNavigation = () => {
               <span>Submit offer</span>
             </a>
           </Link>
+          <Link href="/memes">
+            <a className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-gray-400 items-center justify-center hover:bg-gray-900 hover:text-white">
+              <span>Memes </span>
+            </a>
+          </Link>
         </div>
       </div>
     </nav>
